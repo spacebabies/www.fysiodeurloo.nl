@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+  {{ partial "head.html" . }}
+
+  <body>
+
+    <div id="all">
+
+        <header>
+
+          {{ partial "nav.html" . }}
+
+        </header>
+
+        {{ partial "breadcrumbs.html" . }}
+
+        <div id="content">
+            <div class="container">
+
+              {{ range $index, $page := .Data.Pages }}
+
+                <div class="row">
+                  <div class="col-md-12">
+                    <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+                  </div>
+                </div>
+
+                <div class="row">
+
+                  <div class="col-md-2">
+                    {{ if .Params.banner }}
+                    <img src="{{ .Site.BaseURL}}{{ .Params.banner }}" class="img-responsive" alt="">
+                    {{ end }}
+                  </div>
+
+                  <div class="col-md-10">
+                    <p class="intro">{{ .Summary }}</p>
+                    <p class="read-more"><a href="{{ .Permalink }}" class="btn btn-template-main">{{ i18n "continueReading" }}</a></p>
+                  </div>
+
+                </div>
+
+              {{ end }}
+
+            </div>
+
+        </div>
+
+
+        {{ partial "footer.html" . }}
+
+    </div>
+
+    {{ partial "scripts.html" . }}
+
+  </body>
+</html>

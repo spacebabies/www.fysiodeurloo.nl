@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+{{ partial "head.html" . }}
+
+<body>
+
+  <div id="all">
+
+    <header>
+
+      {{ partial "nav.html" . }}
+
+    </header>
+
+    {{ partial "breadcrumbs.html" . }}
+
+    <div id="content">
+      <div class="container">
+        <section>
+          <div class="row">
+
+            {{ range $index, $page := .Data.Pages }}
+
+            <div class="col-sm-4">
+              <div class="team-member animated fadeInUp" data-animate="fadeInUp" style="opacity: 0;">
+                <div class="image">
+                  <img src="{{ .Site.BaseURL}}{{ .Params.banner }}" alt="{{ .Title }}" class="img-responsive img-circle" style="margin: 0 auto;">
+                </div>
+                <h3>{{ .Title }}</h3>
+                <p class="role">{{ .Params.role }}</p>
+                <div class="text">
+                  {{ .Content }}
+                </div>
+              </div>
+            </div>
+
+            {{ end }}
+
+          </div>
+        </section>
+      </div>
+
+
+      {{ partial "footer.html" . }}
+
+    </div>
+
+    {{ partial "scripts.html" . }}
+
+</body>
+
+</html>

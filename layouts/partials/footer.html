@@ -1,0 +1,37 @@
+<footer id="footer">
+    <div class="container">
+
+        {{ if isset .Site.Params "about_us" }}
+        <div class="col-md-8 col-sm-6">
+            <h4>{{ i18n "aboutUs" }}</h4>
+
+            {{ .Site.Params.about_us | markdownify }}
+
+            <hr class="hidden-md hidden-lg hidden-sm">
+
+            <p class="small" style="margin-top: 3em;">
+              {{ i18n "websiteBy" }} <a href="https://www.spacebabies.nl/">Space Babies</a>.<br>
+              {{ i18n "templateBy" }} <a href="http://bootstrapious.com/free-templates">Bootstrapious</a>.<br>
+              {{ i18n "portedBy" }} <a href="https://github.com/devcows/hugo-universal-theme">DevCows</a>.
+            </p>
+        </div>
+        <!-- /.col-md-4 -->
+        {{ end }}
+
+        {{ if isset .Site.Params "address" }}
+        <div class="col-md-4 col-sm-6">
+
+          <h4>{{ i18n "contactTitle" }}</h4>
+
+            {{ .Site.Params.address | markdownify }}
+
+            <a href="/contact" class="btn btn-small btn-template-main">{{ i18n "contactGoTo" }}</a>
+
+            <hr class="hidden-md hidden-lg hidden-sm">
+
+        </div>
+        <!-- /.col-md-4 -->
+        {{ end }}
+
+    </div>
+</footer>
