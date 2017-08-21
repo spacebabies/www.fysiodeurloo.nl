@@ -1,4 +1,4 @@
-baseurl = "https://fysio-deurloo.netlify.com/"
+baseurl = "https://www.fysiodeurloo.nl/"
 title = "Fysio Deurloo"
 theme = "hugo-universal-theme"
 languageCode = "nl-nl"
