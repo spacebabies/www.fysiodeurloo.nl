@@ -25,8 +25,13 @@ paginate = 10
     weight = 3
 
 [[menu.main]]
-    name = "Medewerkers"
-    url = "/medewerker/"
+    name = "Oefeningen"
+    url = "/oefeningen/"
+    weight = 4
+
+[[menu.main]]
+    name = "Online check"
+    url = "/check/"
     weight = 4
 
 [[menu.main]]
