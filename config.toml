@@ -68,8 +68,8 @@ paginate = 10
 [params]
     viewMorePostLink = "/blog/"
     author = "Space Babies"
-    defaultKeywords = ["fysiotherapie", "bekkenbodem", "lymfdrainage", "handentherapie", "geriatriefysiotherapie", "haptonomie"]
-    defaultDescription = "Algemene fysiotherapie met specialismen bekken(bodem)klachten, manuele lymfdrainage/oedeemtherapie, handentherapie, geriatriefysiotherapie en haptonomie."
+    defaultKeywords = ["fysiotherapie", "bekkenbodem", "lymfdrainage", "handtherapie", "geriatriefysiotherapie", "haptonomie"]
+    defaultDescription = "Algemene fysiotherapie met specialismen bekken(bodem)klachten, manuele lymfdrainage/oedeemtherapie, handtherapie, geriatriefysiotherapie en haptonomie."
 
     # Google Maps API key (if not set will default to not passing a key.)
     googleMapsApiKey = "AIzaSyB0DgOmbIfqnuSqw1NITpPEKOz4meJpqTw"
@@ -92,7 +92,7 @@ paginate = 10
     # Enable the contact form by entering your Formspree.io email
     # email = "your@email.com"
 
-    about_us = "<p>Algemene fysiotherapie met specialismen bekken(bodem)klachten, manuele lymfdrainage/oedeemtherapie, handentherapie, geriatriefysiotherapie en haptonomie.</p>"
+    about_us = "<p>Algemene fysiotherapie met specialismen bekken(bodem)klachten, manuele lymfdrainage/oedeemtherapie, handtherapie, geriatriefysiotherapie en haptonomie.</p>"
     copyright = "Copyright (c) 2015 - 2016, YourCompany; all rights reserved."
 
     # Format dates with Go's time formatting

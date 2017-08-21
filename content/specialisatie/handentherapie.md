@@ -1,19 +1,24 @@
 +++
-title = "Handentherapie"
+title = "Handtherapie"
 banner = "/img/specialisaties/handentherapie.jpg"
 +++
 
-Onze hand is een belangrijk en prachtig gecompliceerd lichaamsdeel. Na een operatie als gevolg van bijvoorbeeld een ongeval is een snelle en specialistische aanpak van groot belang. Operatie en nabehandeling gaan daarom hand in hand, waarbij de samenwerking tussen specialisten en therapeuten gestroomlijnd moet verlopen.
+De hand is ons belangrijkste werktuig en volgens sommigen zelfs ook ons belangrijkste zintuig. De hand functioneert door een ingenieus en minutieus samenspel van weefsels en structuren en is in staat een zeer grote diversiteit aan opdrachten van ons brein uit te voeren: met veel kracht werktuigen en machines bedienen, maar ook met grote snelheid, precisie en passie een instrument bespelen. Liefhebben, maar ook vechten. Doven 'praten' met hun handen, blinden 'lezen' ermee.
 
 <!--more-->
 
-Het Handen Team Zeeland heeft zijn oorsprong in een samenwerking van de laatste jaren tussen verschillende specialismen, te weten plastische chirurgie, revalidatiegeneeskunde, reumatologie en orthopedie. Daarnaast zijn verschillende paramedici ook onderdeel van het team zoals verpleegkundigen, gipsverbandmeesters, ergotherapeuten en fysiotherapeuten.
+De hand is echter ook, juist door zijn bouw, een kwetsbaar orgaan. Omdat de botten, banden en spieren van de hand en onderarm zeer nauw met elkaar verbonden zijn, kan een schijnbaar klein letsel aan uw hand of onderarm grote gevolgen hebben voor uw dagelijks functioneren.
 
-Het doel van het Handen Team Zeeland is om een zo goed mogelijke en snelle behandeling van patiënten met hand problemen te krijgen. Ook zullen behandelrichtlijnen en systematische metingen verricht worden om deze kwaliteitsverbetering meetbaar te maken.
+Helaas komt het nog vaak voor dat mensen lang blijven rondlopen met klachten van hun hand- en/of pols. Kleine ongemakken waarbij gedacht wordt ".. dat zal wel over gaan..." of "... dat hoort nu eenmaal bij de ouderdom (of reuma) ..." kunnen op de lange termijn een vervelende handicap betekenen. Veel hand- en polsklachten kunnen echter verminderd of helemaal verholpen worden.
 
-Het team is een initiatief van de Zeeuwse ziekenhuizen (Oosterschelde ziekenhuis, ziekenhuis Walcheren, stichting ZorgSaam-Terneuzen), stichting Revalidatiegeneeskunde Zeeland en de specialisten van de Maatschap Reumatologie Zeeland, Maatschappen Plastische Chirurgie Zeeland en Maatschap Orthopedie regio Zeeuws Vlaanderen.
+Door wie ?? ..... de handtherapeut!
 
+Handtherapie is een nog weinig bekende en zich sterk ontwikkelende specialisatie binnen de fysiotherapie. Handtherapeuten zijn deskundig op het gebied van (hand)aandoeningen, anatomie, wondgenezing, ontwikkelingen binnen de handchirurgie, informatie over het gebruik van protheses, het behandelen van blessures en aandoeningen en het herkennen van complicaties.
+
+Mw. E. A. M.  (Els ) Deurloo heeft zich met uitgebreide gecertificeerde nascholing en klinische ervaring gespecialiseerd in de behandeling van hand-, pols- en armklachten. Zij werkt hierbij nauw samen binnen [Handtherapie West-Brabant](http://www.handtherapiewestbrabant.nl/), het Bravis Ziekenhuis Bergen op Zoom en Roosendaal en in een samenwerkingsverband met het [Zeeuws Hand- en Polscentrum](http://www.zhpc.nl/) te Goes.
 
 ### Meer informatie
+
+[Handtherapie West-Brabant](http://www.handtherapiewestbrabant.nl/)
 
 [Handenteam Zeeland](http://www.handenteam.nl/)
