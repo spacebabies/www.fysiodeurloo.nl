@@ -8,6 +8,12 @@ This is a website built with [Hugo](https://gohugo.io/).
 hugo server
 ```
 
+## Adding new content
+
+```
+hugo new specialisatie/schouderklachten.md
+```
+
 ## Deployment
 
 Push to master and Netlify takes care of the rest.

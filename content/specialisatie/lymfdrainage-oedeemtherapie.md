@@ -1,6 +1,7 @@
 +++
 title = "Manuele lymfdrainage en oedeemtherapie"
 banner = "/img/specialisaties/lymfdrainage.jpg"
+tags = []
 +++
 
 Net als de bloedbaan waarin bloed circuleert, heeft het lichaam een lymfstelsel waar lymfe doorheen stroomt. Het lymfstelsel ziet er vergelijkbaar uit met het stelsel voor de bloedsomloop. In tegenstelling tot de bloedcirculatie is het lymfstelsel alleen een afvoerend systeem. Lymfe bevat ongeveer dezelfde bestanddelen als bloedplasma maar heeft een hogere concentratie eiwitten. Als lichaamsarbeid wordt geleverd, neemt de concentratie eiwetten in het weefsel verder toe.
@@ -10,6 +11,8 @@ Net als de bloedbaan waarin bloed circuleert, heeft het lichaam een lymfstelsel 
 ### Wat zijn lymfknopen en lymfklieren?
 
 Op het kruispunt van grote lymfvaten bevinden zich lymfknopen. De lymfknopen liggen dichtbij organen en worden ook wel klieren genoemd. De klieren filteren de lymfe en halen er lichaamsvreemde stoffen uit (bacteriën, kankercellen, celresten, etc.). Deze lichaamsvreemde stoffen komen in de bloedbaan terecht doordat het lymfestelsel en de bloedbaan met elkaar in contact staan. Via de bloedbaan worden de lichaamsvreemde stoffen uitgescheiden door het lichaam. In de lymfklieren worden witte bloedcellen gemaakt, die een belangrijke rol spelen in het afweersysteem van het lichaam.
+
+<img src="/img/specialisaties/lymfdrainage.jpg" class="img-responsive">
 
 ### Wat is oedeem?
 

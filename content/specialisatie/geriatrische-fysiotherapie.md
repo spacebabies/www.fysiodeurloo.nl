@@ -1,6 +1,7 @@
 +++
 title = "Geriatrische fysiotherapie"
 banner = "/img/specialisaties/geriatrie.jpg"
+tags = ['ouderdom', 'beweging']
 +++
 
 Mensen die ouder worden en hierbij meerdere klachten ontwikkelen, oa aandoeningen aan het bewegingsapparaat, komen doorgaans in aanraking met de geriatriefysiotherapeut. Deze heeft zich gespecialiseerd in de zorg voor kwetsbare ouderen met een hoge biologische leeftijd die te maken hebben met complexe problematiek.
@@ -9,6 +10,8 @@ Mensen die ouder worden en hierbij meerdere klachten ontwikkelen, oa aandoeninge
 Het gaat daarbij niet alleen om ouderen, maar ook om patiënten die vanwege hun ziekte, bijvoorbeeld na een beroerte of bij de Ziekte van Parkinson, al verschijnselen kunnen vertonen van ouderdom. De zeventigjarige die bij het tennissen een elleboogblessure oploopt, zal daarentegen b.v. bij een algemeen fysiotherapeut terecht komen.
 
 De geriatriefysiotherapeut werkt vanuit zijn specifieke kennis over de doelgroep en de daarbij voorkomende ziektebeelden. De patiënten doen vooral oefentherapie, gericht op het verminderen van klachten bij hun dagelijkse bewegen en het voorkomen van achteruitgang. Tot het werk behoort ook het adviseren en begeleiden van gezinsleden en eventuele mantelzorgers. Geriatriefysiotherapeuten hebben na de basisopleiding fysiotherapie een posthbo-opleiding geriatriefysiotherapie gevolgd.
+
+<img src="/img/specialisaties/geriatrie.jpg" class="img-responsive">
 
 Meer informatie vindt u op de website van de [Nederlandse Vereniging voor Fysiotherapie in de Geriatrie](http://www.nvfgnet.nl/).
 
