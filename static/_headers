@@ -1,0 +1,16 @@
+/
+  Link: </js/front.js>; rel=preload; as=script
+  Link: </js/gmaps.init.js>; rel=preload; as=script
+  Link: </js/hpneo.gmaps.js>; rel=preload; as=script
+  Link: </js/owl.carousel.min.js>; rel=preload; as=script
+  Link: </css/animate.css>; rel=preload; as=style
+  Link: </css/custom.css>; rel=preload; as=style
+  Link: </css/owl.carousel.css>; rel=preload; as=style
+  Link: </css/owl.theme.css>; rel=preload; as=style
+  Link: </css/style.default.css>; rel=preload; as=style
+/img/*
+  Cache-Control: public, max-age=14400
+/js/*
+  Cache-Control: public, max-age=14400
+/css/*
+  Cache-Control: public, max-age=14400
