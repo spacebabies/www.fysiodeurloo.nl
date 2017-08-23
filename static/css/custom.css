@@ -12,3 +12,7 @@
 #content {
   padding-bottom: 5em;
 }
+
+.home-carousel {
+  background: linear-gradient(to bottom, #ffaf00, #009ccc);
+}
