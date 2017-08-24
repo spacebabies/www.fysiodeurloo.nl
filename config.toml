@@ -95,7 +95,7 @@ paginate = 10
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io email
-    # email = "your@email.com"
+    email = "info@fysiodeurloo.nl"
 
     about_us = "<p>Algemene fysiotherapie met specialismen bekken(bodem)klachten, manuele lymfdrainage/oedeemtherapie, handtherapie, geriatriefysiotherapie en haptonomie.</p>"
     copyright = "Copyright (c) 2015 - 2016, YourCompany; all rights reserved."
@@ -108,6 +108,7 @@ paginate = 10
         <br>Markt 3
         <br>4691 BX Tholen
         <br>
+        <br><strong><a href="mailto:info@fysiodeurloo.nl">info@fysiodeurloo.nl</a></strong>
         <br><strong><a href="tel:+31166602406">0166 602406</a></strong>
       </p>
       """

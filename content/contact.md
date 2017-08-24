@@ -3,14 +3,21 @@ title = "Contact"
 id = "contact"
 +++
 
+**Fysio Deurloo**  
+Markt 3  
+4691 BX Tholen
+
+[info@fysiodeurloo.nl](mailto:info@fysiodeurloo.nl)  
+[0166 602406](tel:+31166602406)
+
 ## Openingstijden
 
 ```
-Maandag van 8:00 tot 21:00 uur
-Dinsdag van 8:00 tot 20:00 uur
-Woensdag van 8:00 tot 20:00 uur
-Donderdag van 8:00 tot 20:00 uur
-Vrijdag van 8:00 tot 20:00 uur
+Maandag           8:00 — 21:00
+Dinsdag           8:00 — 20:00
+Woensdag          8:00 — 20:00
+Donderdag         8:00 — 20:00
+Vrijdag           8:00 — 20:00
 ```
 
 Indien nodig kunt u ook, na telefonische afspraak, op zaterdag behandeld worden.
