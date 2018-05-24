@@ -5,7 +5,9 @@
         <div class="col-md-8 col-sm-6">
             <h4>{{ i18n "aboutUs" }}</h4>
 
-            {{ .Site.Params.about_us | markdownify }}
+            <p>{{ .Site.Params.about_us | markdownify }}</p>
+
+            <a href="/privacy" class="btn btn-small btn-template-main">Privacybeleid</a>
 
             <hr class="hidden-md hidden-lg hidden-sm">
 
