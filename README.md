@@ -8,6 +8,13 @@ This is a website built with [Hugo](https://gohugo.io/).
 hugo server
 ```
 
+The theme is a git submodule. You will have to do this once:
+
+```
+git submodule init
+git submodule update
+```
+
 ## Adding new content
 
 ```
