@@ -1,5 +1,5 @@
 +++
-title = "Geriatrische fysiotherapie"
+title = "Geriatrie fysiotherapie"
 banner = "/img/specialisaties/geriatrie.jpg"
 tags = ['ouderdom', 'beweging']
 +++
