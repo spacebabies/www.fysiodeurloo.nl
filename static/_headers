@@ -1,4 +1,5 @@
 /
+  Strict-Transport-Security: max-age=31536000; includeSubdomains
   Link: </js/front.js>; rel=preload; as=script
   Link: </js/gmaps.init.js>; rel=preload; as=script
   Link: </js/hpneo.gmaps.js>; rel=preload; as=script
@@ -14,3 +15,4 @@
   Cache-Control: public, max-age=14400
 /css/*
   Cache-Control: public, max-age=14400
+
