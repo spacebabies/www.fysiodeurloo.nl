@@ -1,3 +1,8 @@
+/*
+  X-Frame-Options: SAMEORIGIN
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: no-referrer-when-downgrade
 /
   Strict-Transport-Security: max-age=31536000; includeSubdomains
   Link: </js/front.js>; rel=preload; as=script
@@ -10,9 +15,8 @@
   Link: </css/owl.theme.css>; rel=preload; as=style
   Link: </css/style.default.css>; rel=preload; as=style
 /img/*
-  Cache-Control: public, max-age=14400
+  Cache-Control: public, max-age=50000
 /js/*
   Cache-Control: public, max-age=14400
 /css/*
   Cache-Control: public, max-age=14400
-
