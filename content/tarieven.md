@@ -6,7 +6,12 @@ Fysiodeurloo heeft met alle zorgverzekeraars van Nederland een overeenkomst afge
 
 ### Tarievenlijst
 
-<table>
+_Update januari 2019_
+
+De tarieven van 2019 zijn nog niet bekend. Neem telefonisch contact op
+als u vragen heeft over dit onderwerp.
+
+<!-- <table>
   <tbody>
     <tr>
       <td>Fysiotherapie</td>
@@ -53,4 +58,4 @@ Fysiodeurloo heeft met alle zorgverzekeraars van Nederland een overeenkomst afge
       <td align="right">€ 50,00 per maand</td>
     </tr>
   </tbody>
-</table>
+</table> -->
