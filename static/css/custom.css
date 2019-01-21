@@ -16,3 +16,12 @@
 .home-carousel {
   background: linear-gradient(to bottom, #ffaf00, #009ccc);
 }
+
+table {
+  margin-bottom: 1em;
+}
+
+td.price {
+  text-align: right;
+  padding-left: 1em;
+}
