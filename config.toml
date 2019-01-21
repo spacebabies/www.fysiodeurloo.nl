@@ -34,10 +34,10 @@ paginate = 10
     url = "/check/"
     weight = 4
 
-# [[menu.main]]
-#     name = "Tarieven"
-#     url = "/tarieven/"
-#     weight = 5
+[[menu.main]]
+    name = "Tarieven"
+    url = "/tarieven/"
+    weight = 5
 
 [[menu.main]]
     name = "Contact"

@@ -4,58 +4,59 @@ title = "Tarieven"
 
 Fysiodeurloo heeft met alle zorgverzekeraars van Nederland een overeenkomst afgesloten om die tarieven te hanteren die de betreffende zorgverzekeraars hebben voorgesteld. Dit houdt dus in dat u nooit hoeft bij te betalen voor behandelingen waarvoor u aanvullend verzekerd bent. Hoe hoog u aanvullend verzekerd bent kunt u zien in uw polis. Komt u er niet uit vraag het dan aan de therapeuten. Wij helpen u graag.
 
-### Tarievenlijst
+### Tarieven 2019
 
-_Update januari 2019_
-
-De tarieven van 2019 zijn nog niet bekend. Neem telefonisch contact op
-als u vragen heeft over dit onderwerp.
-
-<!-- <table>
+<table>
   <tbody>
     <tr>
       <td>Fysiotherapie</td>
-      <td align="right">€ 30,75</td>
+      <td class="price">€ 33,00</td>
     </tr>
     <tr>
       <td>Oedeemtherapie</td>
-      <td align="right">€ 45,75</td>
+      <td class="price">€ 46,00</td>
     </tr>
     <tr>
-      <td>Screening in de praktijk</td>
-      <td align="right">€ 15,75</td>
+      <td>Geriatriefysiotherapie</td>
+      <td class="price">€ 46,00</td>
     </tr>
     <tr>
-      <td>Intake en onderzoek na screening</td>
-      <td align="right">€ 42,15</td>
+      <td>Screening</td>
+      <td class="price">€ 16,00</td>
+    </tr>
+    <tr>
+      <td>Screening, intake en onderzoek</td>
+      <td class="price">€ 50,00</td>
     </tr>
     <tr>
       <td>Intake en onderzoek na verwijzing</td>
-      <td align="right">€ 42,15</td>
+      <td class="price">€ 45,00</td>
     </tr>
     <tr>
       <td>Eenmalig fysiotherapeutisch onderzoek met verwijzing</td>
-      <td align="right">€ 55,75</td>
+      <td class="price">€ 60,00</td>
     </tr>
     <tr>
-      <td>Toeslag uitbehandeling</td>
-      <td align="right">€ 15,75</td>
+      <td>Toeslag zitting aan huis </td>
+      <td class="price">€ 15,00</td>
     </tr>
     <tr>
-      <td>Niet nagekomen afspraak</td>
-      <td align="right">€ 30,75</td>
+      <td>Toeslag zitting in inrichting</td>
+      <td class="price">€ 10,00</td>
     </tr>
     <tr>
-      <td>Gecompliceerde tijdrovende rapporten</td>
-      <td align="right">€ 60,75</td>
+      <td>Niet nagekomen afspraak fysiotherapie</td>
+      <td class="price">€ 24,75</td>
     </tr>
     <tr>
-      <td>Groepsoefentherapie 1 x per week</td>
-      <td align="right">€ 32,00 per maand</td>
+      <td>Niet nagekomen afspraak specialisatie</td>
+      <td class="price">€ 34,50</td>
     </tr>
     <tr>
-      <td>Groepsoefentherapie 2 x per week</td>
-      <td align="right">€ 50,00 per maand</td>
+      <td>Uitgebreide rapporten</td>
+      <td class="price">€ 82,20</td>
     </tr>
   </tbody>
-</table> -->
+</table>
+
+U kunt uw afspraak tot 24 uur kosteloos verzetten of annuleren. Als u dit niet doet brengen we het tarief van niet nagekomen afspraak in rekening.
