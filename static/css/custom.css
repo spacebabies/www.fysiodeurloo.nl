@@ -14,7 +14,13 @@
 }
 
 .home-carousel {
-  background: linear-gradient(to bottom, #ffaf00, #009ccc);
+  background-image: url(/img/Fysiodeurloo_markt.jpg);
+  background-size: cover;
+}
+
+.owl-item .col-sm-5.right {
+  background-color: rgba(0,0,0,0.6);
+  padding-left: 2em;
 }
 
 table {
