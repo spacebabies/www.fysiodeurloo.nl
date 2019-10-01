@@ -12,7 +12,7 @@ The theme is a git submodule. You will have to do this once:
 
 ```
 git submodule init
-git submodule update
+git submodule sync
 ```
 
 ## Adding new content
