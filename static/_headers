@@ -3,18 +3,13 @@
   X-XSS-Protection: 1; mode=block
   X-Content-Type-Options: nosniff
   Referrer-Policy: no-referrer-when-downgrade
-  Content-Security-Policy-Report-Only: default-src 'self'; style-src 'self' https://www.hierhebikpijn.nl; script-src 'self' https://code.jquery.com https://maxcdn.bootstrapcdn.com https://cdnjs.cloudflare.com https://maps.googleapis.com https://fonts.gstatic.com https://fonts.googleapis.com https://ajax.googleapis.com https://www.hierhebikpijn.nl; report-uri https://sentry.io/api/1376255/security/?sentry_key=f01219b14a2c444183d6ae68035d353f
+  Content-Security-Policy-Report-Only: default-src 'self'; style-src 'self' www.hierhebikpijn.nl fonts.googleapis.com maxcdn.bootstrapcdn.com; script-src 'self' https://code.jquery.com https://maxcdn.bootstrapcdn.com https://cdnjs.cloudflare.com https://maps.googleapis.com https://fonts.gstatic.com fonts.googleapis.com https://ajax.googleapis.com https://www.hierhebikpijn.nl
 /
   Strict-Transport-Security: max-age=31536000; includeSubdomains
   Link: </js/front.js>; rel=preload; as=script
   Link: </js/gmaps.init.js>; rel=preload; as=script
   Link: </js/hpneo.gmaps.js>; rel=preload; as=script
   Link: </js/owl.carousel.min.js>; rel=preload; as=script
-  Link: </css/animate.css>; rel=preload; as=style
-  Link: </css/custom.css>; rel=preload; as=style
-  Link: </css/owl.carousel.css>; rel=preload; as=style
-  Link: </css/owl.theme.css>; rel=preload; as=style
-  Link: </css/style.default.css>; rel=preload; as=style
 /img/*
   Cache-Control: public, max-age=50000
 /js/*
