@@ -6,10 +6,9 @@
   Content-Security-Policy-Report-Only: default-src 'self' data: https:
 /
   Strict-Transport-Security: max-age=31536000; includeSubdomains
-  Link: </js/front.js>; rel=preload; as=script
-  Link: </js/gmaps.init.js>; rel=preload; as=script
-  Link: </js/hpneo.gmaps.js>; rel=preload; as=script
-  Link: </js/owl.carousel.min.js>; rel=preload; as=script
+  Link: </img/logo.png>; rel=preload; as=image
+/fonts/*
+  Cache-Control: public, max-age=31536000
 /img/*
   Cache-Control: public, max-age=50000
 /js/*
