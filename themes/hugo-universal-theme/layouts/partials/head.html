@@ -28,7 +28,7 @@
   {{ $animate := resources.Get "css/animate.css" }}
   {{ $default := resources.Get "css/style.default.css" }}
   {{ $custom := resources.Get "css/custom.css" }}
-  {{ $style := slice $fa $carousel $owl $bootstrap $animate $default $custom | resources.Concat "style.css" | minify | resources.Fingerprint "sha512" }}
+  {{ $style := slice $fa $carousel $owl $bootstrap $animate $default $custom | resources.Concat "css/style.css" | minify | resources.Fingerprint "sha512" }}
   <link rel="stylesheet" href="{{ $style.Permalink }}" integrity="{{ $style.Data.Integrity }}">
 
   <!-- Favicon and apple touch icons-->

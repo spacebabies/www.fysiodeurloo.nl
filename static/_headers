@@ -12,6 +12,6 @@
 /img/*
   Cache-Control: public, max-age=50000
 /js/*
-  Cache-Control: public, max-age=14400
+  Cache-Control: public, max-age=31536000
 /css/*
-  Cache-Control: public, max-age=14400
+  Cache-Control: public, max-age=31536000

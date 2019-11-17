@@ -7,5 +7,5 @@
 {{ $carousel := resources.Get "js/owl.carousel.min.js" }}
 {{ $front := resources.Get "js/front.js" }}
 
-{{ $js := slice $jquery $bootstrap $cookie $waypoints $counterup $parallax $carousel $front | resources.Concat "app.js" | minify | resources.Fingerprint "sha512" }}
+{{ $js := slice $jquery $bootstrap $cookie $waypoints $counterup $parallax $carousel $front | resources.Concat "js/app.js" | minify | resources.Fingerprint "sha512" }}
 <script src="{{ $js.Permalink }}" integrity="{{ $js.Data.Integrity }}"></script>
