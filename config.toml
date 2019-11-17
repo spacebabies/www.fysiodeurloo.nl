@@ -1,5 +1,5 @@
 baseURL = "https://www.fysiodeurloo.nl/"
-title = "Fysio Deurloo"
+title = "Fysio Deurloo - Algemene en gespecialiseerde fysiotherapie in Tholen (Zeeland)"
 theme = "hugo-universal-theme"
 languageCode = "nl-nl"
 # Site language. Available translations in the theme's `/i18n` directory.
