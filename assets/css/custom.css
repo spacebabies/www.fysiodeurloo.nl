@@ -31,4 +31,5 @@ table {
 td.price {
   text-align: right;
   padding-left: 1em;
+  white-space: nowrap;
 }

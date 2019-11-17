@@ -106,6 +106,7 @@ enableRobotsTXT = true
     date_format = "January 2, 2006"
 
     logo = "img/logo.png"
+    logo_small = 'img/logo-small.png'
     address = """<p><strong>Fysio Deurloo</strong>
         <br>Markt 3
         <br>4691 BX Tholen
