@@ -14,8 +14,9 @@
 }
 
 .home-carousel {
-  background-image: url(/img/Fysiodeurloo_markt.jpg);
+  background-image: url(/img/markt3-tholen.jpg);
   background-size: cover;
+  background-position: bottom;;
 }
 
 .owl-item .col-sm-5.right {
