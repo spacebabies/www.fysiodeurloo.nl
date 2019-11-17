@@ -1,5 +1,6 @@
 +++
 title = "Privacy"
+description = "Fysio Deurloo verwerkt persoonsgegevens met de maximale zorg en werkt uiteraard conform alle regelgeving."
 +++
 
 # Privacybeleid in onze praktijk

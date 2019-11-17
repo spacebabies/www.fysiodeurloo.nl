@@ -1,5 +1,6 @@
 +++
 title = "Tarieven"
+description = "Een volledig overzicht van onze tarieven."
 +++
 
 Fysiodeurloo heeft met alle zorgverzekeraars van Nederland een overeenkomst afgesloten om die tarieven te hanteren die de betreffende zorgverzekeraars hebben voorgesteld. Dit houdt dus in dat u nooit hoeft bij te betalen voor behandelingen waarvoor u aanvullend verzekerd bent. Hoe hoog u aanvullend verzekerd bent kunt u zien in uw polis. Komt u er niet uit vraag het dan aan de therapeuten. Wij helpen u graag.

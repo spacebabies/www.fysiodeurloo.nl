@@ -3,7 +3,7 @@ categories = []
 date = "2017-08-21T10:48:48+01:00"
 tags = []
 title = "De online fysiotherapie check"
-
+description = "Doe deze online check als u klachten of blessures heeft."
 +++
 
 Lichamelijke klachten of blessures? Wij helpen u op weg!

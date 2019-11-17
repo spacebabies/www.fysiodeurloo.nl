@@ -4,6 +4,7 @@ date = "2017-08-21T09:45:32+01:00"
 tags = ['pijn', 'gewrichten']
 title = "Schouderklachten"
 banner = "/img/specialisaties/schouderklachten.jpg"
+description = "Fysio Deurloo is gespecialiseerd in het verhelpen van klachten aan uw schouders."
 +++
 
 De schouder is een ingenieus stuk van ons lichaam. Een schouder zorgt ervoor dat de arm aan de romp vastzit. Deze arm kan allerlei bewegingen maken.
@@ -12,7 +13,7 @@ De schouder is een ingenieus stuk van ons lichaam. Een schouder zorgt ervoor dat
 
 De schouder bestaat uit drie botten, namelijk de bovenarm, het schouderblad en het sleutelbeen. Dit bij elkaar noem je de schoudergordel. In deze schoudergordel zitten twee gewrichten, het schoudergewricht en het schuifgewricht. Het schoudergewricht is in de vorm van een kogel en holte: de bovenkant van de arm is rond en is als de kogel. Het schouderblad heeft een holte waar deze kogel precies inpast. Door dit gewricht kan je arm bewegen en ronddraaien. Om de gewrichten liggen allerlei spieren. Ook zijn er pezen, die zorgen voor de verbinding tussen de spieren en de botten. Daarnaast bevindt zich hier de slijmbeurs, die ervoor zorgt dat de pees niet tegen het bot of de huid aankomt.
 
-<img src="/img/specialisaties/schouderklachten.jpg" class="img-responsive">
+<img src="/img/specialisaties/schouderklachten.jpg" class="img-responsive" alt="Fysio Deurloo is gespecialiseerd in het verhelpen van klachten aan uw schouders.">
 
 <ul><li>Bij schouderklachten heeft u pijn rond het schoudergewricht.</li>
 <li>Lang dezelfde bewegingen maken is vaak de oorzaak.</li>

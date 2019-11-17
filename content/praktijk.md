@@ -1,5 +1,6 @@
 +++
 title = "De Praktijk"
+description = "Fysio Deurloo is gevestigd in twee monumentale panden in hartje Tholen (Zeeland)."
 +++
 
 <div class="row">

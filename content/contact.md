@@ -1,6 +1,7 @@
 +++
 title = "Contact"
 id = "contact"
+description = "Bel, mail of app ons. Let up: vertrouwelijke informatie verstrekt u het beste per telefoon."
 +++
 
 **Fysio Deurloo**  

@@ -2,6 +2,7 @@
 title = "Oefeningen"
 banner = "/img/oefeningen.png"
 tags = ['beweging', 'oefeningen']
+description = "Kijk hier filmpjes met voorbeeldoefeningen die u thuis kunt nadoen."
 +++
 
 Fysiotherapeut Schuitemaker uit Amsterdam heeft een groot aantal filmpjes gemaakt met oefeningen om thuis te doen.

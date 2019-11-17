@@ -2,6 +2,7 @@
 title = "Geriatrie fysiotherapie"
 banner = "/img/specialisaties/geriatrie.jpg"
 tags = ['ouderdom', 'beweging']
+description = "De geriatrie fysiotherapeut is de meest voor de hand liggende deskundige om het functiebehoud en het functieherstel van ouderen te begeleiden."
 +++
 
 Mensen die ouder worden en hierbij meerdere klachten ontwikkelen, oa aandoeningen aan het bewegingsapparaat, komen doorgaans in aanraking met de geriatriefysiotherapeut. Deze heeft zich gespecialiseerd in de zorg voor kwetsbare ouderen met een hoge biologische leeftijd die te maken hebben met complexe problematiek.
@@ -11,11 +12,11 @@ Het gaat daarbij niet alleen om ouderen, maar ook om patiënten die vanwege hun 
 
 De geriatriefysiotherapeut werkt vanuit zijn specifieke kennis over de doelgroep en de daarbij voorkomende ziektebeelden. De patiënten doen vooral oefentherapie, gericht op het verminderen van klachten bij hun dagelijkse bewegen en het voorkomen van achteruitgang. Tot het werk behoort ook het adviseren en begeleiden van gezinsleden en eventuele mantelzorgers. Geriatriefysiotherapeuten hebben na de basisopleiding fysiotherapie een posthbo-opleiding geriatriefysiotherapie gevolgd.
 
-<img src="/img/specialisaties/geriatrie.jpg" class="img-responsive">
+<img alt="Een van onze specialisaties is geriatriefysiotherapie. Dat is een ander woord voor fysiotherapie voor oude mensen." src="/img/specialisaties/geriatrie.jpg" class="img-responsive">
 
 Meer informatie vindt u op de website van de [Nederlandse Vereniging voor Fysiotherapie in de Geriatrie](http://www.nvfgnet.nl/).
 
-### Waarom deze specialisatie?
+## Waarom deze specialisatie?
 
 Het aantal ouderen neemt toe.
 
