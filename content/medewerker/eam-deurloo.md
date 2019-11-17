@@ -2,13 +2,12 @@
 title = "Mevr E.A.M. Deurloo"
 banner = "/img/medewerkers/els.png"
 role = "Fysiotherapeut en praktijkhoudster"
+clubs = "Lid KNGF"
 weight = 1
 description = "Mevr E.A.M. Deurloo, Fysiotherapeut en praktijkhoudster"
 +++
 
-Lid [KNGF](http://www.fysionet.nl/)
-
-#### Specialisaties:
+### Specialisaties:
 
 Oedeemtherapie—lid NVFL
 

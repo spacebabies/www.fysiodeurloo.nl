@@ -2,13 +2,12 @@
 title = "Dhr J.L. Coomans"
 banner = "/img/medewerkers/jeroen.png"
 role = "Fysiotherapeut"
+clubs = "Lid KNGF"
 weight = 2
 description = "Dhr J.L. Coomans, Fysiotherapeut"
 +++
 
-Lid [KNGF](http://www.fysionet.nl/)
-
-#### Specialisaties:
+### Specialisaties:
 
 Reumatische aandoeningen—lid Fyranet
 
