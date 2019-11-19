@@ -1,2 +1,24 @@
+[build]
+  base = "."
+  publish = "public"
+  command = "hugo && npm run index"
 [context.production.environment]
   HUGO_VERSION = "0.59.1"
+[[redirects]]
+  from = "https://fysio-deurloo.netlify.com/*"
+  to = "https://www.fysiodeurloo.nl/:splat"
+  status = 301
+  force = true
+# If skip_processing = true, all other settings are ignored
+[build.processing]
+  skip_processing = false
+[build.processing.css]
+  bundle = false
+  minify = false
+[build.processing.js]
+  bundle = false
+  minify = false
+[build.processing.html]
+  pretty_urls = true
+[build.processing.images]
+  compress = true
