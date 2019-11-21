@@ -43,3 +43,7 @@ td.price {
   padding-left: 1em;
   white-space: nowrap;
 }
+
+.pull-right {
+  text-align: right;
+}
