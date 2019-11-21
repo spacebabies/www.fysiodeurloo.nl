@@ -12,6 +12,7 @@ googleAnalytics = ""
 paginate = 10
 enableGitInfo = true
 enableRobotsTXT = true
+disableKinds = ["taxonomy", "taxonomyTerm"]
 
 # Main menu
 [menu]
