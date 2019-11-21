@@ -16,7 +16,7 @@ Wij voldoen aan de wettelijke verplichtingen die voortkomen uit de Algemene Vero
 - fysiodeurloo informeert haar patiënten over het doel van de verwerking van persoonsgegevens.
 - fysiodeurloo informeert patiënten indien fysiodeurloo bijzondere handelingen met de persoonsgegevens gaat verrichten.
 
-<img src="/ecb.png" class="pull-right">
+<img src="/img/ecb.png" class="pull-right">
 ## Controle en certificering
 
 Dit wordt regelmatig gecontroleerd door een onafhankelijke partij, het [European Conformity Bureau](https://www.ecb.nl).
