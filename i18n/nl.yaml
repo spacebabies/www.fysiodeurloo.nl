@@ -23,13 +23,13 @@
   translation: "Contactformulier"
 
 - id: contactName
-  translation: "Je naam"
+  translation: "Uw naam"
 
 - id: contactMail
-  translation: "Je e-mailadres"
+  translation: "Uw e-mailadres"
 
 - id: contactMessage
-  translation: "Je bericht"
+  translation: "Uw bericht"
 
 - id: contactSend
   translation: "Verstuur"

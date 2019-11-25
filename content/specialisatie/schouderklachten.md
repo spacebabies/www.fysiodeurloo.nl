@@ -11,7 +11,7 @@ De schouder is een ingenieus stuk van ons lichaam. Een schouder zorgt ervoor dat
 
 <!--more-->
 
-De schouder bestaat uit drie botten, namelijk de bovenarm, het schouderblad en het sleutelbeen. Dit bij elkaar noem je de schoudergordel. In deze schoudergordel zitten twee gewrichten, het schoudergewricht en het schuifgewricht. Het schoudergewricht is in de vorm van een kogel en holte: de bovenkant van de arm is rond en is als de kogel. Het schouderblad heeft een holte waar deze kogel precies inpast. Door dit gewricht kan je arm bewegen en ronddraaien. Om de gewrichten liggen allerlei spieren. Ook zijn er pezen, die zorgen voor de verbinding tussen de spieren en de botten. Daarnaast bevindt zich hier de slijmbeurs, die ervoor zorgt dat de pees niet tegen het bot of de huid aankomt.
+De schouder bestaat uit drie botten, namelijk de bovenarm, het schouderblad en het sleutelbeen. Dit bij elkaar noemt men de schoudergordel. In deze schoudergordel zitten twee gewrichten, het schoudergewricht en het schuifgewricht. Het schoudergewricht is in de vorm van een kogel en holte: de bovenkant van de arm is rond en is als de kogel. Het schouderblad heeft een holte waar deze kogel precies inpast. Door dit gewricht kan uw arm bewegen en ronddraaien. Om de gewrichten liggen allerlei spieren. Ook zijn er pezen, die zorgen voor de verbinding tussen de spieren en de botten. Daarnaast bevindt zich hier de slijmbeurs, die ervoor zorgt dat de pees niet tegen het bot of de huid aankomt.
 
 <img src="/img/specialisaties/schouderklachten.jpg" class="img-responsive" alt="Fysio Deurloo is gespecialiseerd in het verhelpen van klachten aan uw schouders.">
 
