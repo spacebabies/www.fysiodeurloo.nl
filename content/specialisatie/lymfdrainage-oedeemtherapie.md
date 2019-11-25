@@ -52,4 +52,4 @@ In bepaalde situaties kan van deze nieuwe behandelingtechniek gebruik gemaakt wo
 
 ## Meer informatie
 
-[www.nvfl.nl](http://www.nvfl.nl/)
+[Nederlandse Vereniging voor Fysiotherapie binnen de Lymfologie en Oncologie](https://nvfl.kngf.nl/)

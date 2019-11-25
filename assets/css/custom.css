@@ -47,3 +47,7 @@ td.price {
 .pull-right {
   text-align: right;
 }
+
+.add-top-3 {
+  margin-top: 3em;
+}

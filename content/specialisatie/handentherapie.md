@@ -19,10 +19,10 @@ Door wie ?? ..... de handtherapeut!
 
 Handtherapie is een nog weinig bekende en zich sterk ontwikkelende specialisatie binnen de fysiotherapie. Handtherapeuten zijn deskundig op het gebied van (hand)aandoeningen, anatomie, wondgenezing, ontwikkelingen binnen de handchirurgie, informatie over het gebruik van protheses, het behandelen van blessures en aandoeningen en het herkennen van complicaties.
 
-Mw. E. A. M.  (Els ) Deurloo heeft zich met uitgebreide gecertificeerde nascholing en klinische ervaring gespecialiseerd in de behandeling van hand-, pols- en armklachten. Zij werkt hierbij nauw samen binnen [Handtherapie West-Brabant](http://www.handtherapiewestbrabant.nl/), het Bravis Ziekenhuis Bergen op Zoom en Roosendaal en in een samenwerkingsverband met het [Zeeuws Hand- en Polscentrum](http://www.zhpc.nl/) te Goes.
+Mw. E. A. M.  (Els ) Deurloo heeft zich met uitgebreide gecertificeerde nascholing en klinische ervaring gespecialiseerd in de behandeling van hand-, pols- en armklachten. Zij werkt hierbij nauw samen binnen [Handtherapie West-Brabant](https://handtherapiewestbrabant.weebly.com/), het Bravis Ziekenhuis Bergen op Zoom en Roosendaal en in een samenwerkingsverband met het [Zeeuws Hand- en Polscentrum](http://www.zhpc.nl/) te Goes.
 
 ## Meer informatie
 
-[Handtherapie West-Brabant](http://www.handtherapiewestbrabant.nl/)
+[Handtherapie West-Brabant](https://handtherapiewestbrabant.weebly.com/)
 
-[Handenteam Zeeland](http://www.handenteam.nl/)
+[Hand en Pols Revalidatie Nederland](http://hprn.info/)
