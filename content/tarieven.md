@@ -3,9 +3,9 @@ title = "Tarieven"
 description = "Een volledig overzicht van onze tarieven."
 +++
 
-Fysiodeurloo heeft met alle zorgverzekeraars van Nederland een overeenkomst afgesloten om die tarieven te hanteren die de betreffende zorgverzekeraars hebben voorgesteld. Dit houdt dus in dat u nooit hoeft bij te betalen voor behandelingen waarvoor u aanvullend verzekerd bent. Hoe hoog u aanvullend verzekerd bent kunt u zien in uw polis. Komt u er niet uit vraag het dan aan de therapeuten. Wij helpen u graag.
+Deze tarieven gelden voor zover u niet aanvullend verzekerd bent of als uw verzekerd bedrag van de aanvullende verzekering is overschreden. Ook als u geen basisverzekering heeft.
 
-### Tarieven 2020
+## Tarieven 2020
 
 <table>
   <tbody>
@@ -60,7 +60,18 @@ Fysiodeurloo heeft met alle zorgverzekeraars van Nederland een overeenkomst afge
   </tbody>
 </table>
 
-U kunt uw afspraak tot 24 uur kosteloos verzetten of annuleren. Als u dit niet doet brengen we het tarief van niet nagekomen afspraak in rekening.
+## Groepsoefentherapie
+
+<table>
+  <tbody>
+    <tr>
+      <td>Eenmaal per week</td>
+      <td class="price">€ 32,00 per maand</td>
+    </tr>
+  </tbody>
+</table>
+
+We hebben met alle zorgverzekeraars overeenkomsten afgesloten. Dit betekent dat u nooit hoeft (bij) te betalen voor behandelingen waarvoor u aanvullend verzekerd bent. Dit kunt u zien in uw polis of navragen bij uw zorgverzekeraar. Meer informatie over tarieven kunt u ook krijgen van onze therapeuten. Vraag er gerust naar, zij helpen u graag.
 
 <div class="footnotes">
   <hr>
